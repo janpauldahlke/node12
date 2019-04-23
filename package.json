@@ -1,0 +1,15 @@
+{
+  "name": "node12",
+  "version": "0.0.12",
+  "type": "module",
+  "description": "palying around with the new experimental modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node12"
+  ],
+  "author": "janpauldahlke",
+  "license": "ISC"
+}
